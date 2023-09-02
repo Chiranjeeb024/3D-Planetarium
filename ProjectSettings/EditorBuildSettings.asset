@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Main scenes/Home Screen.unity
+    guid: 0604b5fe82f493c48ada8ba4bd6dfb8e
+  - enabled: 1
+    path: Assets/Main scenes/Overview.unity
+    guid: 814be974cad794e15b4b92041614ba68
+  - enabled: 1
+    path: Assets/Main scenes/Icon Planet.unity
+    guid: 7e4d1483e350aea4694330a47358e09f
+  - enabled: 1
+    path: Assets/Scenes/mercury/mercury.unity
+    guid: 9dc90ced76c998c4cb0c678db41b4acc
+  - enabled: 1
+    path: Assets/Scenes/venus/venus.unity
+    guid: af0cdac0899f7944d87ef63c42942802
+  - enabled: 1
+    path: Assets/FantasyEnvironments/Environments/Scenes/EARTH.unity
+    guid: 275a29409308e634aa2aae331e6db8ba
+  - enabled: 1
+    path: Assets/Scenes/moon/moon.unity
+    guid: 90865af457328ad43b8246283dc3d4f8
+  - enabled: 1
+    path: Assets/Scenes/Mars/Mars.unity
+    guid: 0a882b23faecc974aa78b38ea09b434d
+  - enabled: 1
+    path: Assets/Scenes/Jupiter/Jupiter.unity
+    guid: 415793e3cdfa0444db916db5791c54f9
+  - enabled: 1
+    path: Assets/Scenes/Saturn/Saturn.unity
+    guid: 244f20770da91a14d98889a0ce1066b5
+  - enabled: 1
+    path: Assets/Scenes/Uranus.unity
+    guid: 2b12d339e215f9b46b1eb57b50f6e5d7
+  - enabled: 1
+    path: Assets/Scenes/Neptune.unity
+    guid: 24658792a079685419bb9f6e38e419f6
+  - enabled: 1
+    path: Assets/Main scenes/loading.unity
+    guid: 65816ac98f6915b45abce23154aaac5b
+  m_configObjects: {}
