@@ -1,1 +1,1 @@
-# 3D-Planetarium
+# 3D-Planetarium-Software
